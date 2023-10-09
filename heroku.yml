@@ -1,5 +1,5 @@
-build:
-  docker:
+build:jose
+  docker:heroku
       worker: Dockerfile
-run:
+run:wuonajasi
    worker: npm start
